@@ -1,0 +1,5 @@
+use cd .. para voltar um diretorio
+ls - lista
+pwd - diretorio
+
+se usar ( time ./<nome do programa> ) voce pega o tempo de processo do programa
